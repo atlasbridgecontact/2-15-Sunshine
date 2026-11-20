@@ -1,0 +1,6 @@
+{
+  "name": "Sunshine 2-15: Florida Insurance Agency Simulator",
+  "description": "An educational 16-bit SNES-style simulator where you run a Florida 2-15 health, life, and annuities startup agency following real-world regulations, forms, math, and commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
